@@ -1,2 +1,2 @@
 # git1session
-trial
+This is my 1st experince on git
